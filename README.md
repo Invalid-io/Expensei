@@ -1,10 +1,10 @@
 # Expensei
 Money Management Application
 
-CREDITS:
+### CREDITS:
  - Invalidictoria as Validictoria [allOfTheCode]
 
-TODO:
+### TODO:
 
  * homeScreen:
     - input:
